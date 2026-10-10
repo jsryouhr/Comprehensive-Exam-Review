@@ -137,16 +137,30 @@
 
 ---
 
-## Q8. "First, national samples" vs "Third, nation-level construct" — 같은 것 아닌가?
+## Q8. "First, national samples" vs "Third, nation-level construct" — **원문 대조 완료 (2026-10-10: Liu & Lapinski, 2024; Lapinski et al., 2007; Gelfand et al., 2011 전문)**
 
-**다르다. 그러나 초안이 그 차이를 말하지 않아서 같아 보인다.**
-- **국가 표본 비교(First):** 문화를 **측정하지 않고** 표본의 국적에서 **추론**한다. 보통 두 나라. 문화와 그 밖의 국가 간 차이(조사 방식, 표집)를 분리할 수 없다 — Liu & Lapinski (2024)의 한계가 정확히 이것이다(중국은 대면 집단 설문, 미국은 온라인 개인 설문 **[초록]**). Lapinski et al. (2007) **[전문]**이 비판한 것도 이것: "the literature on individualism–collectivism has been criticized for making broad generalizations about people from different countries."
-- **국가 수준 지수(Third):** 문화를 **국가의 속성으로 측정**해(Gelfand et al., 2011의 33개국 점수; Hofstede 지수) 그 나라 구성원 모두에게 부여하고, 여러 나라에 걸쳐 연속 조절변인으로 쓴다. 분석 단위가 국가이므로 두 나라로는 검정이 안 된다.
-- 사용자의 직관("국가 수준 구성개념을 국가별 표본으로 조사해 비교")은 두 유형의 **혼합**이다. 각 국가 표본에서 문화 변인을 **개인에게 측정**해 비교하면 그것은 Second(개인 수준 측정)의 집계이지 Third가 아니다. 구분 기준은 (1) 추론인가 측정인가, (2) 단위가 국가인가 개인인가.
+**핵심 판단(두 방식은 다르다)은 원문이 지지한다. 그러나 이전 답변의 세부 주장 다섯 곳을 고친다.**
 
-**결론:** 두 유형을 "문화를 국가의 속성으로 다루는 방식"으로 묶고 그 안에서 추론형/지수형으로 나누면 독자의 혼동이 사라진다(아래 Q10 구조).
+| 이전 주장 | 판정 | 근거 |
+|---|---|---|
+| 국가 표본 비교는 문화를 측정하지 않고 국적에서 추론 | 부분 수정 | Liu & Lapinski (2024)는 "cultural context (i.e. country of origin)"를 더미(US = 0, China = 1)로 넣었다(p. 7). 동시에 group orientation을 개인 수준에서 측정했다(9문항, p. 6). 측정하지 않은 것은 국가 차이의 **설명**으로 제시된 것들이다: 경직성(p. 4, 11), 제도적 신호(pp. 3–4), 메시지 해석 차이(pp. 4, 10). |
+| 보통 두 나라 | 철회 | 근거 없는 일반화. 읽기 목록 안에서는 중국–미국 두 나라(Liu & Lapinski, 2024, 2025)이고, Lapinski et al. (2007)은 18개국 출신 미국 거주자를 4개 지역으로 묶었다(각주 1). |
+| 조사 방식 차이와 분리 안 됨, Liu 2024의 한계 | 확인 [전문] | p. 13: "Chinese participants completed the survey in a face-to-face group setting, whereas American participants completed it individually online ... the differences in survey administration modes may have impacted the salience of social norms and contributed to the observed cultural variations." p. 5: 중국은 종이 설문(각주 3), 미국은 Qualtrics. 모집처도 다름(미국 중서부 대학 참여자 풀 vs 윈난성 3개 대학). 공정하게: 저자들은 블라인드 번역·역번역, 파일럿, MGCFA 측정 동일성(부분 스칼라), 신뢰성 동등 확인을 수행했다. |
+| Lapinski 2007이 비판한 것도 이것 | 정정 | 2007은 조사 방식 혼입을 말하지 않았다. 2007이 지적한 것은 (a) 개인주의–집단주의 문헌이 "making broad generalizations about people from different countries"라는 비판(p. 135), (b) 선행연구가 group orientation을 "national culture of origin" 또는 타당한 측정이 없는 self-construal로 조작화했다는 점(p. 136), (c) "finding country-level differences tells us little about communication phenomena"(p. 140). 이 비판은 국적 대리지표와 국가 수준 지수 **둘 다**에 해당한다. 또 2007은 국가를 통제변인으로만 썼다: "we were primarily interested in controlling for the effects of this variable, not in testing its influence"(p. 140). |
+| 국가 수준 지수는 여러 나라에 걸쳐 쓰며 두 나라로는 검정 불가 | 확인 | 두 나라면 국가 수준 점수는 값이 둘뿐이라 국가 더미와 동일하다(논리). Liu 2024는 Gelfand 점수(중국 7.9, 미국 5.1)를 가설 근거로만 썼고(p. 4), 논의에서 경직성이 "may take centre stage in explaining our findings"라 하면서 "Further research might consider the incorporation of elements such as CTL"(p. 11)이라 했다 — 검정하지 않았다는 뜻. 두 국가로 HLM을 시도했으나 ICC = .03, 국가 간 분산 p = .96으로 단일 수준 분석으로 전환(p. 8). |
+| 사용자 설명은 두 유형의 혼합이며 개인 측정의 집계일 뿐 | **정정 — 사용자 직관이 맞았다** | Gelfand et al. (2011)은 33개국 6,823명에게 6문항을 묻고 국가별로 집계했다. 국가 내 합의 r_wg = .85, ICC(1) = .13, ICC(2) = .97로 "shared collective construct"임을 보였다(p. 1102). 즉 국가 수준 구성개념은 **국가별 표본을 조사해 집계해서 만든다**. 두 방식의 차이는 국가 표본을 쓰느냐가 아니라, (1) 특정 문화 차원을 점수화하느냐, (2) 국가를 분석 단위로 삼아 여러 나라에 걸쳐 그 차원을 변인으로 쓰느냐에 있다. Liu 2024가 바로 사용자가 말한 결합의 실례다: 국가 수준 점수로 가설을 세우고, 검정은 국가 더미로 했다. |
+| 기준은 추론 vs 측정 | 용어 수정 | Lapinski et al. (2007)은 국적을 "measures both national culture and group orientation"(p. 136)이라고 썼다. "추론/측정"보다 "proxy(대리지표)"와 "scored dimension(점수화된 차원)"이 원문 어휘와 맞는다. 초안 Part 2도 "country has served as a proxy"를 쓴다. |
+| 하나로 묶고 추론형/지수형으로 | 재판단: 둘 다 가능 | Liu & Lapinski (2024, p. 11)는 스스로 "cultural context (at the country level)", "the country-level construct used in previous meta-analyses", "individual-level group orientation"을 구분한다. 사용자의 원래 3분(개인 수준 / 국가 수준 변인 / 표본 차이)은 읽기 목록 어휘와 일치한다. 필수 수정은 두 방식의 차이를 한 문장으로 밝히고 **인접 배치**하는 것(현재는 1번과 3번 사이에 개인 수준이 끼어 있다). 한 문단 안에 두 방식으로 쓰면 공통 비판(2007)을 한 번에 붙일 수 있어 분량이 준다. |
 
----
+**함께 발견한 것:**
+- Kalny et al. (2026)의 Hofstede 사후분석은 여전히 미확인. 대신 읽기 목록 안의 Liu & Lapinski (2024)가 국가 수준 집단주의를 쓴 메타분석 두 편을 요약한다: Fischer & Karl (2022) — "collectivism (versus individualism) strengthened normative effects on compliance with COVID-19-related behaviours at the country level"(p. 4); Helferich et al. (2023) — "either no statistically significant evidence (using the GLOBE scale) or very weak but significant moderation effects (using Hofstede's scale)"(p. 11). 국가 수준 증거도 혼재한다.
+- Gelfand et al. (2011): 일부 표본은 국가가 아니라 하위 국가 단위(동·서독, 홍콩·중국)로 처리(주 21); "Future research should also ... explore variation in tightness-looseness at other levels of analysis (e.g., regions)"; 표본은 국가 대표성이 없음(저자 명시); 한국 = 서울, 중국 = 베이징, 미국 = DC·메릴랜드·버지니아. 사용자 정의의 "co-cultural groups within national boundaries"를 뒷받침하고, 폭음 제안서의 한국 10.0 vs 미국 5.1 인용 시 주의점.
+- Liu 2024: 중국 표본이 더 집단 지향적(t(1435) = 15.34, d = 0.83), 저자 해석 "reflecting the individualism–collectivism dimension at the country-level"(p. 8) — 개인 수준과 국가 수준의 연결.
+- Q11 검증: Liu 2024의 "interpretation" 설명 확인(p. 4: "the salience of the same norm messages may be interpreted and internalized differently"; p. 10: "different cultural contexts may lead to distinct interpretations and salience of the same norms message"). 다만 저자들은 제도적 신호와 경직성도 함께 제시했다 → Q11 문장에 "among other explanations" 또는 셋 다 명시.
+- Q9 검증: GO 주효과(b = 0.66, 0.64, p < .001), 메시지·지각과의 상호작용 없음(Tables 2–3).
+
+**제안 문단 (초안의 First와 Third를 대체):**
+> First, culture has been represented by country, in two ways. In one, nationality serves as a proxy, and differences between national samples are attributed to culture after the fact. For example, the same norm appeals shifted the targeted perceptions more in a Chinese than in a U.S. student sample, a difference the authors related to China's tighter culture, its institutional signals about food waste, and cultural differences in message interpretation (Liu & Lapinski, 2024). None of these explanations was measured, and the samples also differed in survey mode, so the difference cannot be traced to a particular feature of culture. In the other, a cultural dimension is measured at the level of the nation, as in Gelfand et al.'s (2011) tightness–looseness scores, which aggregated respondents' ratings within each of 33 nations. Across many nations, such scores allow the dimension itself to be tested, but meta-analyses that coded country-level collectivism have reported both stronger normative effects in more collectivistic countries and weak or null moderation (see Liu & Lapinski, 2024). Both approaches locate culture in the nation and therefore invite the criticism, noted by Lapinski et al. (2007), of making broad generalizations about people from different countries.
 
 ## Q9. 개인 수준 문단: group identity vs. group orientation 비교가 어색한가, group orientation에 치우쳤는가?
 

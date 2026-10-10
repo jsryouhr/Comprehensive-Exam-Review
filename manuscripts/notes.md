@@ -66,3 +66,21 @@
 - pp. 401–402: 속성 중심 접근(Rimal et al., 2011) — privacy, 금전 비용, 빈도, 중독성; 공개 행동에서 규범 영향 강화(Bagozzi et al., 2000)와 손씻기 현장실험의 무효과(Lapinski, Maloney et al., 2013) 차이는 규범 유형과 가시성; 이론 선택 촉진; 배양이론 언급.
 - pp. 403–404 후속 연구: (1) 역인과(행동 → 규범 지각), 횡단 연구 과다, 실험 효과의 지속성 미확인; (2) 규범의 동적 개념화, 사회적 격변기 연구; (3) 집합 → descriptive 가설; (4) 조절변인이 매개변인이 되는 조건(injunctive를 매개로; Rimal, 2008만 검정); (5) 조작 점검 미보고, injunctive 조작 드묾, "assessing the manipulated norms, as understood by participants"; injunctive·collective norms를 바꾼 개입 증거 없음 — injunctive는 변화에 더 저항하나 바뀌면 더 지속될 수 있다는 가설.
 - p. 404 결론: 커뮤니케이션을 통해 집단 성원이 처방·금지·제재를 "understand, negotiate, and accept (or reject)"; "This underlying idea, however, has not received adequate attention in the communication literature."
+
+---
+
+## G. Liu, R. W., & Lapinski, M. K. (2024). Cultural influences on the effects of social norm appeals. *Phil. Trans. R. Soc. B, 379*, 20230036. [전문, 2026-10-10]
+
+- 2 (descriptive 고/저) × 2 (injunctive 강/약) 피험자 간 실험, 음식물 쓰레기 예방 의도. N = 1,449 (미국 563: 중서부 대학 참여자 풀, Qualtrics 온라인 개인; 중국 886: 윈난성 3개 대학, 종이 설문 대면 집단). 블라인드 번역·역번역, 파일럿, MGCFA(부분 스칼라 동일성), 신뢰성 국가 간 동등.
+- H1/H2 매개(메시지 → 지각 규범 → 의도), H3 국가(cultural context = country of origin 더미) 조절, H4 group orientation(Triandis 9문항, collective − individual) 조절.
+- 결과: 같은 메시지에 중국 표본의 지각 변화가 더 큼(PDN 조건부 효과 1.69 vs 0.57; PIN 1.45 vs 0.18); 지각 → 의도 효과도 중국에서 더 큼(PDN 1.00 vs 0.59; PIN 1.23 vs 0.75); H1–H3 일치, H4 불일치 — GO는 의도에 주효과만(b = 0.66/0.64). 중국 표본 GO 더 높음(d = 0.83). 두 국가 HLM ICC = .03 → 단일 수준 분석.
+- 국가 차이의 설명(측정 안 됨): 제도적 신호(중국 반음식낭비법 vs 미국 EPA 목표), 메시지 해석 차이(Goyal et al., 2020), 경직성(Gelfand: 중국 7.9, 미국 5.1).
+- 논의: 개인 수준 GO와 국가 수준 구성개념의 차이로 선행 메타분석과의 불일치 설명; Fischer & Karl (2022) 국가 수준 집단주의가 COVID 규범 효과 강화; Helferich et al. (2023) GLOBE 무효과·Hofstede 매우 약한 조절; CTL 후속 연구 제안; dynamic norms 언급.
+- 한계: 학생 표본, 조사 방식 차이가 규범 현저성과 문화 차이에 기여했을 가능성, 가상 커버스토리, 요구 특성 미측정, 의도만 측정.
+
+## H. Gelfand, M. J., et al. (2011). Differences between tight and loose cultures: A 33-nation study. *Science, 332*, 1100–1104. [전문, 2026-10-10]
+
+- 33개국 6,823명(직업인과 대학생; 국가 대표 표본 아님). 경직성 6문항(규범의 편재·명확성·강제 정도; 예 "In this country, if someone acts in an inappropriate way, others will strongly disapprove"). 국가 내 합의 r_wg = .85, ICC(1) = .13, ICC(2) = .97 → 공유된 집합 구성개념. 상황 제약(12 행동 × 15 상황) r_wg = .99.
+- 다층 체계 모형: 생태·역사적 위협(인구밀도, 자원 부족, 재난, 영토 위협, 병원체) → 제도(독재, 언론 통제, 형벌, 종교성) → 일상 상황의 강도 → 개인 심리(예방 초점, 자기조절, 구조 욕구, 자기감시). 국가 수준 상관(n = 33)과 HLM 교차수준 분석.
+- 점수 예: 한국 10.0(서울), 중국 7.9(베이징), 미국 5.1(DC·MD·VA), 파키스탄 12.3, 우크라이나 1.6. 동·서독, 홍콩·중국은 별도 표본.
+- 한계·제안: 인과 방향은 상호적일 수 있음; 지역 등 다른 분석 수준 연구 제안.
