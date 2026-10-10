@@ -80,7 +80,16 @@
 - **결론:** 두 문장으로 축약했다.
 - **참고문헌:** Real & Rimal (2007)과 Geber & Hefner (2019)를 삭제하고 Hamaker et al. (2015)를 추가했다.
 
+## 최종 원문 대조 반영 (2026-10-10)
+- 원문 9편을 대조해 다섯 곳을 고쳤다. 상세는 `source-check-final.md`.
+  - Cialdini et al. (1990): "only" → "primarily".
+  - Rhodes et al. (2020): Part 1 문장을 기술적 규범 결과로 한정했고, 차원 1의 "reliably"를 뺐다.
+  - 공백(채널): "mostly"를 넣었다.
+  - 공백(해석): Douglas et al. (2024) 인용 위치를 바로잡았다.
+- 분량 때문에 티베트 문단과 차원 3에서 같은 뜻의 짧은 표현으로 바꿨다.
+- 본문은 여전히 11쪽에서 끝난다.
+
 ## 남은 확인 사항
-- Rhodes et al. (2020)의 "shift perceived norms reliably … small and heterogeneous"는 원문 미확인이다(저자 원문 주장 유지).
-- Real & Rimal (2007)의 결과는 Chung & Rimal (2016)을 통한 2차 확인이다.
+- Rhodes et al. (2020)의 최종 권호·쪽수는 선공개 PDF로 확인할 수 없다(읽기 목록과는 같다).
+- Real & Rimal (2007)은 원문과 대조했지만, 규칙 11에 따라 Chung & Rimal (2016) 재인용 형식을 유지했다.
 - Word에서 열어 11쪽 끝을 다시 확인할 것. 글꼴 대체에 따라 한두 줄 달라질 수 있다.
