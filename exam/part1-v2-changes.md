@@ -27,3 +27,6 @@
 3. "Syntheses have since confirmed" — 규칙상 "confirmed" 회피 권장; Shulman et al. (2017)의 TPB 최다·generic referents 미확인.
 4. 각주 1의 Perkins & Berkowitz 절과 새 SNA 각주 내용 일부 중복.
 5. 1990년 이전 역사가 각주 1에 있음(Q12-1).
+
+## 2026-10-10 원문 대조 결과 (`exam/source-check-batch5.md`)
+1–3번 확인 완료: 1번은 오귀속(수정안 P1-a/b), 2번은 attitudes 부분 부정확(P1-c), 3번은 Shulman 내용은 맞으나 'confirmed'·길이 문제(P1-d). 4번은 P1 선택안. 5번은 미처리.
