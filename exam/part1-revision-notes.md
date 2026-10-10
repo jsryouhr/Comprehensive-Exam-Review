@@ -238,3 +238,33 @@ Kalny et al. (2026)의 Hofstede 사후분석은 **[미확인]**(초록의 조절
 6. Liu & Lapinski (2025): user comments로 제재 명시; "only among low-context" 결과; 경직성 "partial support".
 7. Shulman et al. (2017): TPB 최다 사용; generic referents; 미국 표본 비율.
 8. Cialdini et al. (1990) p. 1015: injunctive norms와 제재 문구.
+
+
+---
+
+## Culture 섹션 재구성 v4 (2026-10-10) — Q9·Q10·Q11 통합 결론
+
+본문: `exam/culture-section-v4.txt` (593단어; 현재 초안 451단어). 근거 전문: Lapinski et al. (2007), Rimal & Lapinski (2015), Yoon et al. (2024), Liu & Lapinski (2024), Gelfand et al. (2011), Lapinski et al. (2022), Liu et al. (2022). Liu & Lapinski (2025)만 초록 수준.
+
+**뼈대:** 도입(정의 + Lapinski et al., 2022의 세 질문) → A 국가 → B 개인 → C 규범을 정의하는 맥락 → D 진단.
+- 도입의 세 질문(p. 335: "how social norms are conceptualized, how important they are in decision-making relative to other influences, and the role of psycho-social dynamics in their effects")이 세 위치와 대응: 개념화 ↔ C, 중요도 ↔ A·C, 심리사회적 역학 ↔ B. 대응은 이 답안의 구성이지 원저자의 분류가 아님.
+- "co-cultural groups within national boundaries or comparing countries"는 Liu et al. (2022) 초록 표현. 사용자 원래 정의의 출처로 삼을 수 있음.
+
+**구 초안 → v4 대응:** 정의 → 도입 / First + Third → A / Second → B / Fourth + 각주 2 → C / Finally → D.
+
+**Q9(B 문단)에서 바꾼 것과 이유:**
+1. 첫 문장에 "왜 개인 수준인가"를 넣음 — 2007 p. 135와 Liu 2024 p. 4가 같은 이유(국가 간 일반화 비판)를 명시.
+2. GO vs GI 비교는 한 문장으로 유지 — 2007 p. 140이 TNSB에 "a clear conceptual distinction between group orientation and other group-level variables"를 요구. 출제자가 확인할 구분.
+3. 결론을 "inconsistent"에서 **패턴**으로 바꿈. 세 연구 모두 집합적 이익 행동(물 절약, 거리두기, 음식물 쓰레기 예방). 2007: 고GO는 지각 유병률과 무관하게 긍정적, 저GO에서 부적 관계. 2024(Yoon): 저GO에서 기울기 더 가파름. 2024(Liu): GO 직접효과만. → "group orientation may function more as a direct motive than as an amplifier"(해석, 헤지).
+4. **주의:** Lapinski et al. (2007)은 이 상호작용을 "consistent with the predicted interaction (H4a)"라고 보고했다(고GO의 기울기가 대수적으로 더 큼). 따라서 "예측이 지지되지 않았다"고 쓰지 말고 **형태를 서술**할 것. v4는 2007 논의의 표현("regardless of the prevalence information")을 따름. 또 2007의 GO 직접효과는 Block 3에서 유의하지 않았다 — "direct motive"는 Yoon 2024와 Liu 2024에 근거.
+5. "prevalence information was negatively associated" → "perceived prevalence" — 2007 회귀의 상호작용항은 조작이 아니라 지각된 유병률.
+6. Liu 2024 p. 11의 설명(개인 수준 측정 vs 메타분석의 국가 수준 구성개념)은 전체안(v2)에만 남김. 분량 여유 시 B 끝에 추가: "Liu and Lapinski (2024) offered the individual-level measurement of collectivism as one explanation for the contrast with country-level findings."
+7. Liu & Lapinski (2025) 문장은 **확인 필요**: 경직성이 개인이 지각한 경직성인지 국가 수준인지, 고/저맥락 선호의 결과 형태, 제재를 user comments로 명시했는지. 국가 수준이면 A로 옮길 것.
+
+**Q10(C 문단) 정정:** 이전 제안의 "derive ... sanctions"와 "rather than importing scales"는 부정확. Liu et al. (2022)는 인터뷰 결과와 기존 척도(GO는 Triandis와 2007에서, GID는 Rimal & Real 2005에서)를 함께 써서 문항을 만들었고(Lapinski et al., 2022가 "combined emic-etic approach"라 부름), 제재는 자료에 없어서 injunctive 정의에서 뺐다(p. 6). 유지된 PIN 문항은 "would be upset with me", "will be dissatisfied with me" — 예상되는 불승인. 구술시험 대비 메모.
+
+**Q11(D 문단) 갱신:** Liu 2024의 국가 차이 설명은 해석만이 아니라 경직성·제도적 신호·해석 세 가지(pp. 3–4, 10–11). Oyserman & Lee 대신 읽기 목록 경유 예: Saracevic et al. (2022)가 교차문화 규범 소구 실험에서 자기해석을 점화(Liu & Lapinski, 2024, p. 5). 전체안 D에 포함, 압축안에서는 생략.
+
+**주제 연결(아크):** Part 1 첫 소절의 제재 기준(Lapinski & Rimal, 2005) → C 문단에서 그 기준이 문화에 묶여 있을 수 있음을 보임(Lapinski et al., 2022; Liu et al., 2022) → Part 2의 해석 차원과 아이디어 2(제재의 명시/암시)로 이어짐.
+
+**확인한 사소한 불일치:** Shulman et al. (2017)의 표본 수가 초록 검색에서는 821편, Liu et al. (2022, p. 2)에서는 832편(미국·서유럽 82.4%). 숫자는 인용하지 말 것.

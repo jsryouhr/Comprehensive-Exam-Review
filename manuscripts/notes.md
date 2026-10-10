@@ -84,3 +84,24 @@
 - 다층 체계 모형: 생태·역사적 위협(인구밀도, 자원 부족, 재난, 영토 위협, 병원체) → 제도(독재, 언론 통제, 형벌, 종교성) → 일상 상황의 강도 → 개인 심리(예방 초점, 자기조절, 구조 욕구, 자기감시). 국가 수준 상관(n = 33)과 HLM 교차수준 분석.
 - 점수 예: 한국 10.0(서울), 중국 7.9(베이징), 미국 5.1(DC·MD·VA), 파키스탄 12.3, 우크라이나 1.6. 동·서독, 홍콩·중국은 별도 표본.
 - 한계·제안: 인과 방향은 상호적일 수 있음; 지역 등 다른 분석 수준 연구 제안.
+
+---
+
+## I. Lapinski, M. K., Liu, R. W., Kerr, J. M., Zhao, J., Bum, T., & Lu, Z. (2022). Culture and social norms: Behavioral decisions about grassland conservation among ethnically Tibetan pastoralists. *JIIC, 15*(3), 333–354. (온라인 2021) [전문, 2026-10-10]
+
+- 반구조화 인터뷰, 위수(Yulshul) 4개 마을 남성 목축민 40명, 내용분석(α = .75) + 주제분석. 연구질문: 축산 행동과 결정 근거(RQ1), descriptive·injunctive 규범의 개념화와 소통(RQ2).
+- 서론: 이론과 연구가 주로 미국·유럽에서 수행(Shulman et al., 2017), 문화적 역학을 설계에 반영하지 않음; 규범 이론 중 어느 것도 문화적 역학을 직접 설명하지 않음(p. 334); 문화적 역학은 "how social norms are conceptualized, how important they are in decision-making relative to other influences, and the role of psycho-social dynamics in their effects"에 영향(p. 335); emic-etic 결합 접근; 공동문화집단(co-cultural group; Orbe, 1998).
+- 결정 근거: 생태 조건(수용력, 피카), 시장(일부는 윤회 신앙으로 시장 지향 거부), 정책(초지 배분, 두수 제한, 울타리), 사회적 요인(목축 집단 허락, 다수, 전통). 개인 행위성이 제한됨.
+- Descriptive: 축종(야크)은 명확, 두수는 규범 불명확(정책 이해도 제각각); 관찰과 직접 상호작용으로 형성. 각주 6: 두수를 밝히지 않는 규범.
+- Injunctive: 정보는 문제·변화 시에 주로 공유; 제재는 암시적("implied rather than explicitly stated", p. 347); 다수결·합의; 규범은 가구·초지·야크 수의 조화.
+- 논의: 행위성 제한 시 규범의 영향 제한(p. 348); "spiritual vs. market mentality" 하위집단; 제재 부재는 "directly counter to prevailing theories of social norms"(p. 349); 준거집단과 집단 내 커뮤니케이션 파악을 연구의 출발점으로.
+- 한계: 소규모 비확률 남성 표본.
+
+## J. Liu, R. W., Lapinski, M. K., Kerr, J. M., Zhao, J., Bum, T., & Lu, Z. (2022). Culture and social norms: Development and application of a model for culturally contextualized communication measurement (MC³M). *Frontiers in Communication, 6*, 770513. [전문, 2026-10-10]
+
+- 초록: 규범 연구는 "increasingly focused on cultural dynamics: studying co-cultural groups within national boundaries or comparing countries."
+- 국가를 문화의 유일한 대리지표로 쓰는 관행의 이점과 한계; "country and culture are incongruent under most conditions"; 문화 = 고유하게 공유된 커뮤니케이션 특성·지각·가치·신념·관행을 가진 공동체(p. 2–3).
+- Shulman et al. (2017)을 832편, 82.4% 미국·서유럽으로 인용(Shulman 초록 검색은 821편 — 불일치). 비교 설계 다수는 미국 표본과 다른 나라 표본 비교.
+- 세 지향(Herdman et al., 1997; Berry et al., 2002): absolutism(수정 없이 적용), universalism(한 문화에서 개발 후 번역·조정; 예 Stamkou et al., 2019 19개국 집단주의·경직성), relativism(집단 내부에서 개념·측정 개발; 예 Rimal et al., 2015, 2019). Relativism은 기존 연구에서 드묾(p. 13).
+- MC³M 7단계: 핵심 구성개념 확인 → 심층 인터뷰(80명) → 개념 정교화 → 문항 개발과 인지 인터뷰 → 조사원 훈련·자료 수집 → 측정모형(CFA, 판별타당도, 측정 동일성, 신뢰도) → ground truthing.
+- 조사: 목축민 360명(남 85%), 구술 실시, 손가락 응답척도, "Not sure" 선택지. Injunctive 정의에서 제재 제외("not evidenced in our data", p. 6). 결과 기대 문항은 단일차원 실패로 제외. GO 4문항 α = .68. "Not sure"의 93.62%가 마을 준거 응답 → 목축 집단이 더 명확한 규범 정보원(Kincaid, 2004; Lapinski & Rimal, 2005와 일치).
