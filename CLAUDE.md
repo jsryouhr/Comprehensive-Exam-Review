@@ -15,6 +15,8 @@
 8. `exam/part1-revision-notes.md` — Part 1 수정 질의응답 12건, 검증 수준, 제안 문장, 미확인 항목
 9. `exam/part1-v2-changes.md` — Part 1 v2 추적 변경 기록(Q1–Q11 반영), 분량, 남은 확인 사항
 10. `exam/source-check-batch5.md` — Rimal & Real 2003, Smith 2006, Kalny 2026, Lapinski 2013, Shulman 2017 원문 대조와 수정 문안
+11. `exam/part2-revision-notes.md` — Part 2 질의응답 Q1–Q20, 근거 쪽수, 검증 수준, 분량 계산
+12. `exam/part2-v2-draft.md` — Part 2 v2 압축판(필수 수정 + 핵심 발전안, 아직 10쪽 초과)
 
 ## 핵심 규칙 10가지
 1. 문두 "As"(because 뜻) → "Because". "it is construed/inferred that" → 직접 주장.
