@@ -37,22 +37,53 @@
 
 ---
 
-## Q3. "the hypothesis that collective norms drive perceived norms through communication had not yet been tested" (Rimal & Lapinski, 2015)
+## Q3. "the hypothesis that collective norms drive perceived norms through communication had not yet been tested" (Rimal & Lapinski, 2015) — **원문 대조 완료 (2026-10-10)**
 
-**(a) 문맥상 필요한가 — 필요하되, 지금 형태로는 재설명 논문을 "미검증 가설 하나"로 축소한다.**
-이 문장은 TNSB 계보를 2015년에서 닫고 Part 2의 넷째 차원(규범 형성·변화의 공백)을 심는 역할을 한다. 역할은 필요하다. 그러나 **[초록]** 2015 논문의 내용은 네 가지다: 규범을 시간에 따라 변하는 동적 현상으로 봄; collective/perceived 구분 정교화; TNSB 연구 요약과 확장; 행동 속성 중심 접근. "규범은 동적이다"는 출제문의 "cultural **dynamics**"와 Part 2 넷째 차원에 직접 쓰이는 요소인데 초안에 없다.
+**원문 위치 [전문]:**
+- p. 397 (collective norms 절 마지막 문단): "Collective norms likely constitute one of the drivers of descriptive norms, further enhanced through communication processes, but this hypothesis has not yet been tested."
+- p. 403 (Areas for further inquiry): "Although the role of collective norms has not been articulated in the theory, we are suggesting in this article that descriptive norms themselves may be driven, in part, by collective norms. This is a hypothesis worthy of testing." (여기서는 커뮤니케이션 언급 없음)
+- p. 393: "Our central assumption was and continues to remain that, at their core, norms are communication phenomena."
 
-**(b) 실제 주장인가 — [미확인].** 초록에는 그 문장이 없다. 2차 인용에서 "at their core, norms are communication phenomena"는 확인되지만 "collective → perceived through communication이 검증되지 않았다"는 문장은 찾지 못했다. **PDF의 collective norms 절에서 해당 문장과 쪽수를 확인**하라. 없다면 Yanovitzky & Rimal (2006)의 확인된 문장으로 대체 가능: "much more work also needs to be done in specifying the role that human communication processes play in how norms are understood and disseminated in a social group" **[초록, OUP 페이지]**. 읽기 목록 안의 문헌이라 더 안전하다.
+**초안 문장의 오류 세 가지:**
+1. "perceived norms" → 원문은 **descriptive norms**("people's perceptions of these norms, also known as descriptive norms"). injunctive norms는 p. 403에서 별도로 "driven by both collective norms and descriptive norms"로 다룬다.
+2. "drive" → 원문은 **"likely constitute one of the drivers"** / "may be driven, in part". 헤지와 부분성을 지웠다.
+3. "through communication" → 원문은 **"further enhanced through communication processes"**. 커뮤니케이션은 경로(매개)가 아니라 이미 있는 연결을 **증폭**하는 것으로 서술된다. 같은 절에서 인용한 Rimal et al. (2013, Malawi)도 집합 규범이 콘돔 사용을 예측하고 그 영향이 "further augmented by heightened interpersonal discussions"(p. 396)였다 — 조절 패턴.
+- "had not yet been tested" ✔. "characterized norms as fundamentally a communication phenomenon" ✔(내용), 다만 2005의 중심 가정을 재확인한 것이므로 "reaffirmed"가 정확.
 
-**(c) 이후 검증되었는가 — 부분적으로.** 제 검색 범위에서 "collective norm → communication → perceived norm" 사슬을 한 설계로 검정한 연구는 찾지 못했다. 다만 조각들은 있다 (모두 **[초록]**, 목록 밖):
-- 커뮤니케이션 → 지각 규범: Real & Rimal (2007); Geber, Baumann & Klimmt (2019, *Communication Research* 46[5]) — 또래 커뮤니케이션을 규범 지각 형성 요인으로 매개 분석; Rimal et al. (2015, *Reproductive Health*) — 인도 도시 빈곤층에서 대인 커뮤니케이션을 규범 영향의 agent로 본 혼합방법 연구.
-- 집합 규범 측정 → 행동: Geber, Baumann, Czerwinski & Klimmt (2021, *Communication Research*) — 독일 청년 운전자 311명과 또래 집단(총 1,244명) 다층 모형, 실제 집합 규범이 지각을 넘어 위험 행동을 예측; Rimal & Yilma (2022) — 세르비아 고교생 두 시점, 집합 규범 주효과 없음·성별 상호작용; Zhu et al. (2024, *Health Communication* 39[1]) — 두 시점 N = 913, 같은 식료품점 네트워크로 집합 규범 **노출**을 측정, 마스크 착용에 영향; Pokharel et al. (2024, *Health Communication* 39[13]) — 정당 집합 규범이 지각 규범–마스크 관계를 조절.
-- 즉, 집합 규범은 측정되기 시작했으나 **지각 규범의 형성 경로(커뮤니케이션)**는 여전히 모형 밖이다. Zhu et al.의 "노출"은 관찰 채널이지 대화가 아니다.
+**이전 제 답변의 오류:**
+- (b)를 [미확인]으로 두고 Yanovitzky & Rimal (2006) 대체를 권했다 → 불필요. 문장은 p. 397에 있다.
+- 제안 문장의 "the proposition on which the distinction rests" ✗ — collective/perceived 구분은 개념화·측정 수준에 근거한다(p. 395). 이 가설은 구분의 토대가 아니라 **TNSB 확장으로 새로 제안된 명제**다(p. 403).
+- 제안 문장의 "shape perceived norms through communication" ✗ — 초안과 같은 왜곡.
+- "2015 논문은 네 가지를 합니다" → 초록은 다섯(동적 개념화, collective/perceived 정교화, TNSB 요약·확장 지침, 속성 중심 접근, 후속 연구 영역).
+- 셋째 문장 "Studies that have since measured collective norms have related them to behavior rather than to the communication ..." ✗ 과장 — 초록 수준 확인뿐이고, Zhu et al. (2024)는 행동 동질성(behavioral homophily)이 집합 규범에 대한 **선택적 노출**을 예측함을 보여 노출 형성 과정(네트워크·커뮤니케이션 측면)도 다뤘다. 철회.
 
-**제안 (세 문장; 셋째는 목록 밖 인용이라 선택):**
-> A decade later, Rimal and Lapinski (2015) re-explicated the construct: they treated norms as dynamic rather than fixed, elaborated the collective–perceived distinction, and reaffirmed that norms are, at their core, communication phenomena. They also noted that the proposition on which the distinction rests—that collective norms shape perceived norms through communication—had not been tested [쪽수]. Studies that have since measured collective norms have related them to behavior rather than to the communication through which perceptions form (Geber et al., 2021; Rimal & Yilma, 2022; Zhu et al., 2024).
+**(a) 필요한가 — 필요하다. 이전보다 더 강하게 권한다.** 2015 논문은 규범 연구가 개인 수준 인지와 거시 수준 맥락을 잇는 경로이며 "of more relevance to communication scholarship, it requires tapping into concepts able to connect individual-level behaviors with their societal-level determinants"라고 쓴다(p. 395). 이 가설은 그 연결에서 커뮤니케이션이 들어가는 지점이다. Part 1에서는 계보의 2015 단계, Part 2에서는 넷째 차원의 근거가 된다.
 
----
+**(c) 이후 검증 — 제 검색(초록 수준) 범위에서 그 가설 그대로(집합 규범 → 지각된 descriptive norms, 커뮤니케이션이 증폭)를 검정한 연구는 찾지 못했다. 부재의 증거는 아니다.** 관련 연구 [초록]:
+- Geber, Baumann, Czerwinski & Klimmt (2021, *Communication Research* 48[3]): 지각 규범과 집합 규범을 다층 모형으로 구분(집합 규범 = 같은 학교 또래 응답에서 본인 제외 계산); 실제 집합 규범이 지각을 넘어 위험 행동에 영향. 집합 → 지각 경로 보고 여부 [미확인].
+- Rimal & Yilma (2022): 집합 규범 주효과 없음, 성별에 따른 상호작용.
+- Zhu et al. (2024, *Health Communication* 39[1]): 식료품점 공유 네트워크로 집합 규범 노출 측정; 노출은 마스크 착용에 영향하되 사회적 상호작용 방식에 따라 다름; 행동 동질성이 초기에 선택적 노출을 예측. 노출 → 지각 규범 경로 [미확인].
+- Rimal et al. (2015, *Reproductive Health*): 대인 커뮤니케이션이 descriptive norm–피임 행동 관계를 조절. 집합 규범 측정 없음.
+- Chung, Jang, Lapinski, Kerr, Zhao, Shupp & Peng (2022, *Social Influence* 17[1]): 2015의 **다른** 미검증 가설(역인과: 행동 → 지각 규범, p. 403)을 다회차 공공재 실험 2차 분석으로 검정; 본인 기여 행동이 지각된 descriptive norms를 정적으로 예측, 시간에 따른 변화는 유의하지 않음. Lapinski 랩 연구 — 구두시험 대비.
+→ 답안에서 "여전히 미검증"이라고 쓰려면 Geber (2021)·Zhu (2024) 전문 확인이 선행되어야 한다. 그 전에는 2015 시점의 역사적 진술("had not yet been tested")만 쓰라. 초안은 이미 과거완료로 그렇게 썼다 — 안전하다.
+
+**제안 A (최소 수정, 2문장):**
+> A decade later, Rimal and Lapinski (2015) re-explicated the construct, reaffirming the assumption that norms are, at their core, communication phenomena and conceptualizing norms as dynamic entities that both affect and are affected by human action. They also proposed that collective norms are likely one of the drivers of perceived descriptive norms, a relationship further enhanced through communication processes, and noted that this hypothesis had not yet been tested.
+
+**제안 B (A + 개념 진화 한 문장, 분량 여유 시):**
+> They also revised how collective norms should be measured: whereas Lapinski and Rimal (2005) had cautioned against aggregating individuals' perceptions, Rimal and Lapinski (2015) proposed aggregated behavior, such as the proportion of a community that engages in the behavior, as a proxy.
+
+**Part 2 넷째 차원 문장 동반 수정:**
+> Although collective norms are defined as emerging through shared interaction (Lapinski & Rimal, 2005), and Rimal and Lapinski (2015) proposed that collective norms likely drive perceived descriptive norms, a relationship further enhanced through communication processes, ...
+
+**Part 2 아이디어 1과의 연결:** 현재 패널 설계(대화 → 지각 규범)는 커뮤니케이션을 경로로 검정한다. 2015 가설을 그대로 검정하려면 기숙사·캠퍼스 수준 집합 규범(집계된 음주 행동)을 수준 2 예측변인으로, 대화를 교차수준 조절변인으로 추가하면 된다. 그러면 "this design tests the hypothesis Rimal and Lapinski (2015) noted had not been tested"라고 쓸 수 있다.
+
+**이 PDF로 함께 확인된 것:**
+- Q11 "motivations to comply (Rimal & Lapinski, 2015)" ✔ p. 401 — interdependence 조절변인 설명: "when people are dependent on others, motivations to comply with others' behaviors should be stronger"; 또 다른 설명으로 "fear of social sanctions—particularly the fear of isolation" 제시.
+- Q12-3 우려 뒷받침: p. 398 "Along with injunctive norms, outcome expectations and group identity constitute the other moderators originally specified in the TNSB (Rimal & Real, 2005)." → 세 조절변인 명세는 2005에 귀속하는 것이 원문과 일치.
+- Part 2 "had not received adequate attention" ✔ p. 404 Conclusion; "assessing the manipulated norms, as understood by participants" ✔ p. 404.
+- 문화 섹션 활용 가능: 2015는 조절변인을 개인 수준(involvement, self-monitoring, self-efficacy 등)과 대인·사회 수준(group proximity, interdependence)으로 분류하고, Lapinski et al. (2007)을 interdependence 아래 놓았다(pp. 399–401).
+- 동적 관점: 사회적 격변은 규범 진화의 "evolution accelerator"(Ebola, p. 394)이며 "Periods of social upheaval ... provide important opportunities to study how norms evolve"(p. 403). Yoon et al. (2024)의 COVID 자료와 "norms are fluid" 경계 조건 논의를 이 문장에 연결할 수 있다(단, 2024 연구가 규범 진화 자체를 검정한 것은 아님).
 
 ## Q4. "Alongside this theoretical work, the social norms approach ... that enterprise"
 
@@ -185,7 +216,7 @@ Kalny et al. (2026)의 Hofstede 사후분석은 **[미확인]**(초록의 조절
 ---
 
 ## 사용자가 PDF에서 확인할 것 (제가 확인 못 한 항목)
-1. Rimal & Lapinski (2015): "collective → perceived through communication 미검증" 문장과 쪽수; "communication phenomena" 문구.
+1. ~~Rimal & Lapinski (2015)~~ — 원문 대조 완료(p. 397, 403, 393). Q3 참조.
 2. Kalny et al. (2026): 이질성 진술; Hofstede 사후분석 유무.
 3. Rimal & Real (2003): 조절변인 목록; communication patterns 조작화(친구·형제?).
 4. Lapinski et al. (2013): "cue to action" 해석; "understood but did not believe the statistics" 결과; 고·저 유병률 두 메시지 모두 효과.
