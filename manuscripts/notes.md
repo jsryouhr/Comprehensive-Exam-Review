@@ -105,3 +105,14 @@
 - 세 지향(Herdman et al., 1997; Berry et al., 2002): absolutism(수정 없이 적용), universalism(한 문화에서 개발 후 번역·조정; 예 Stamkou et al., 2019 19개국 집단주의·경직성), relativism(집단 내부에서 개념·측정 개발; 예 Rimal et al., 2015, 2019). Relativism은 기존 연구에서 드묾(p. 13).
 - MC³M 7단계: 핵심 구성개념 확인 → 심층 인터뷰(80명) → 개념 정교화 → 문항 개발과 인지 인터뷰 → 조사원 훈련·자료 수집 → 측정모형(CFA, 판별타당도, 측정 동일성, 신뢰도) → ground truthing.
 - 조사: 목축민 360명(남 85%), 구술 실시, 손가락 응답척도, "Not sure" 선택지. Injunctive 정의에서 제재 제외("not evidenced in our data", p. 6). 결과 기대 문항은 단일차원 실패로 제외. GO 4문항 α = .68. "Not sure"의 93.62%가 마을 준거 응답 → 목축 집단이 더 명확한 규범 정보원(Kincaid, 2004; Lapinski & Rimal, 2005와 일치).
+
+---
+
+## K. Liu, R. W., & Lapinski, M. K. (2025). Social norms and culture: Theorizing and testing the effects of injunctive norms appeals. *Communication Monographs.* (온라인 2025-05-27; 93[1], 12–45) [전문, 2026-10-10]
+
+- 목적: (1) 제재 명시가 injunctive 규범 메시지 효과에 미치는 영향으로 injunctive 개념화·측정 확장, (2) 고/저맥락 선호(Hall, 1976; Ohashi, 2000 7문항)와 문화적 경직성(Gelfand et al., 2011 6문항, 개인 지각)을 조절 기제로 검정.
+- 설계: 4 × 2 온라인 실험, 미국 424·중국 419 성인(Qualtrics, 센서스 할당). 조건: 무메시지 / 규범 없는 메시지 / injunctive-only / injunctive+명시적 제재. 조작: 소셜미디어 게시물(가상 NGO "Save Food Initiative")의 좋아요·싫어요 수치와 댓글; 제재는 댓글로 명시. 번역·역번역, MGCFA(PSS는 부분 스칼라).
+- PIN: 2차 요인 = 개인 수준 지각 불승인(PPSD) + 사회 수준 지각 불승인(SPSD) + 지각된 사회적 제재(PSS) (Park & Smith, 2007; Tittle, 1980).
+- 결과: H1 중국이 고맥락 선호 더 큼(η² = .11); H2 저맥락 선호자에서만 제재 명시가 PIN·의도 추가 상승; H3 중국이 지각된 경직성 더 큼(η² = .24); H4 부분 — 경직할수록 injunctive-only의 의도 효과 강화, 제재 메시지의 PIN 효과 약화. 귀무모형 ICC: PIN .25, BI .32.
+- 해석: 고맥락 선호자는 암시된 제재를 감지할 수 있어 명시가 불필요; 경직 문화에서는 천장 효과 또는 이미 더 강한 제재를 예상.
+- 한계: 음식물 쓰레기 단일 주제, 단발 메시지, 표본 간 인구통계 차이, 승인·보상 기반 메시지 미검토.

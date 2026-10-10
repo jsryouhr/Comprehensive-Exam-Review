@@ -268,3 +268,38 @@ Kalny et al. (2026)의 Hofstede 사후분석은 **[미확인]**(초록의 조절
 **주제 연결(아크):** Part 1 첫 소절의 제재 기준(Lapinski & Rimal, 2005) → C 문단에서 그 기준이 문화에 묶여 있을 수 있음을 보임(Lapinski et al., 2022; Liu et al., 2022) → Part 2의 해석 차원과 아이디어 2(제재의 명시/암시)로 이어짐.
 
 **확인한 사소한 불일치:** Shulman et al. (2017)의 표본 수가 초록 검색에서는 821편, Liu et al. (2022, p. 2)에서는 832편(미국·서유럽 82.4%). 숫자는 인용하지 말 것.
+
+
+---
+
+## Liu & Lapinski (2025) 원문 대조 (2026-10-10) — Culture v5
+
+본문: `exam/culture-section-v5.txt`(704단어, 정밀판), `exam/culture-section-v5-compact.txt`(606단어, 압축판). v4와 다른 곳은 B 문단 끝과 D 문단뿐.
+
+**확인 사항 세 가지:**
+1. **경직성은 개인 수준 측정.** Gelfand et al. (2011)의 6문항을 개인에게 묻고(역문항 1개 제외), H3 문구가 "Individual perceptions of cultural tightness/looseness". 개인 수준 조절변인으로 쓰고 국가는 무선절편으로 통제. → B 문단이 맞는 위치. 같은 문항을 Gelfand는 국가로 집계했고 Liu & Lapinski는 개인 차이로 썼다 — A와 B를 잇는 사례.
+2. **고/저맥락 결과(Table 3).** 비교는 injunctive-only(0) vs injunctive+제재(1). 저맥락 선호(−1SD): 제재 명시 메시지가 PIN을 더 높임(b = 0.34, p < .001), 의도도(b = 0.44, p < .001). 고맥락 선호(+1SD): 차이 없음(PIN b = 0.05, p = .51; BI b = 0.04, p = .69). 조절된 매개 지수 유의. 저자: H2a·H2b와 일치.
+3. **제재는 user comments로 명시(p. 11).** 규범 조작은 좋아요·싫어요 수치와 댓글; 제재 명시 조건은 댓글에 부정적 사회적 결과를 적음. **제재 추론은 부분적으로만 측정.** 지각된 사회적 제재(PSS, 6문항, Tittle, 1980)를 PIN의 하위척도로 측정했고, 제재를 말하지 않은 injunctive 메시지도 PSS를 높였다(Table 2: 미국 3.72 vs 통제 3.00·규범 없는 메시지 3.32; 중국 4.52 vs 3.97·4.03). 그러나 고/저맥락 조절은 PSS가 아니라 2차 요인 PIN 전체(PPSD + SPSD + PSS)에 대해 검정 → "고맥락 선호자가 암시된 제재를 추론한다"는 기제 자체는 직접 검정되지 않음.
+
+**경직성 결과(Table 4, H4 "partial support"):** injunctive-only vs 규범 없는 메시지 — CTL × 메시지 → PIN 무의미, → 의도 유의(b = 0.13, p = .02; 경직할수록 의도 효과 강함). injunctive+제재 vs 규범 없는 메시지 — CTL × 메시지 → PIN 유의·부적(b = −.14, p = .03; 경직할수록 지각 효과 약함), → 의도 무의미. 저자 해석: 천장 효과 또는 "vigilant self-system" — 경직 문화에서는 이미 제재를 예상(pp. 24).
+
+**설계:** 4 × 2 온라인 실험(무메시지 통제 / 규범 없는 메시지 / injunctive-only / injunctive+제재 × 미국·중국). Qualtrics 패널, 인구센서스 기반 할당표집 성인(미국 424, 중국 419; 평균 연령 45.7, 41.6). **Liu & Lapinski (2024)와 다른 자료**(2024는 학생, 중국 종이·대면). 2025는 두 나라 모두 온라인이라 2024의 조사 방식 혼입이 없음. 원래 약한 injunctive 조건이 있었으나 제외(주 5).
+
+**초안 문장 대조:**
+- Part 1 "a preference for high- versus low-context communication moderated the added effect of explicit sanctions ... perceived cultural tightness yielded only partial support" ✔.
+- Part 1 "the detection of implied sanctions" ✔ (저자 표현 "can readily detect implied social sanctions", p. 6) — 제안된 과정.
+- Part 2 "compared injunctive norm appeals in which sanctions were implied with appeals in which user comments stated them ... raised perceived injunctive norms only among participants who preferred low-context communication" ✔.
+- Part 2 "an injunctive appeal without stated sanctions raised perceived sanctions" ✔ (Table 2).
+- Part 2 아이디어 2 "analyzed by subscale" ✔ — 하위척도는 개인 수준 불승인(PPSD), 사회 수준 불승인(SPSD), 지각된 제재(PSS); Park & Smith (2007)의 다수준 틀. 아이디어 2의 출처 조작(준거집단 vs 더 큰 공동체)과 직접 연결됨. 참고: 미국에서 제재 명시는 PPSD를 높였으나(4.22) SPSD는 아님; 중국은 PPSD가 조건 간 차이 없음(약 4.3).
+
+**v4의 잘못:** B 끝 문장은 맞지만 모호; D의 "inference of unstated sanctions ... proposed more often than measured"는 PSS가 측정되었으므로 부정확 → "tested directly" 또는 정밀판처럼 구분.
+
+**다른 활용 가능 문장(원문):**
+- p. 1: 사회규범은 모든 사회에 있지만 "the manner in which they exist and are communicated is culturally bound; cultural dynamics shape what is perceived as normative and how norms are enacted and reinforced" (Gelfand, 2018 인용).
+- pp. 1–2: Shulman et al. (2017) — 표본 출처가 있는 832편 중 17%만 서유럽·미국 밖 표본, "with most published outside the field of Communication despite the fact that social norms are formed, reinforced, and modified through communication processes" → Part 2 서두에 유용(숫자는 Shulman 원문 확인 후).
+- p. 3: injunctive norms는 제재 위협 없이는 무의미하다는 기존 문헌(Bendor & Swistak, 2001; Lapinski & Rimal, 2005)과 Douglas et al. (2024)의 "inherent defining characteristic" → Q1 제재 기준 문장의 보강 근거.
+- p. 2: "social sanctions may not be automatically inferred from messages conveying injunctive norms ... as previously assumed" (Jensen & Bute, 2010) → C 문단과 Part 2 해석 차원의 다리.
+- p. 24: "while the larger individual-level variance emphasizes the need to theorize and test cultural mechanisms at both levels" (귀무모형 ICC: PIN .25, BI .32).
+- pp. 27: 후속 연구로 group orientation, 사회정체성(Hogg & Reid, 2006), 채널(대인 vs 디지털), 행동 가시성 × 문화 제안.
+
+**구술 대비:** 두 국가로 국가 무선절편을 추정하면 수준 2 분산 추정이 불안정하다는 방법론 비판이 가능(저자들이 인용한 Hox et al., 2017도 많은 집단을 권장). 답안에서 지적할 필요는 없음.
