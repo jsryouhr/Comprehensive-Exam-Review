@@ -116,3 +116,56 @@
 - 결과: H1 중국이 고맥락 선호 더 큼(η² = .11); H2 저맥락 선호자에서만 제재 명시가 PIN·의도 추가 상승; H3 중국이 지각된 경직성 더 큼(η² = .24); H4 부분 — 경직할수록 injunctive-only의 의도 효과 강화, 제재 메시지의 PIN 효과 약화. 귀무모형 ICC: PIN .25, BI .32.
 - 해석: 고맥락 선호자는 암시된 제재를 감지할 수 있어 명시가 불필요; 경직 문화에서는 천장 효과 또는 이미 더 강한 제재를 예상.
 - 한계: 음식물 쓰레기 단일 주제, 단발 메시지, 표본 간 인구통계 차이, 승인·보상 기반 메시지 미검토.
+
+---
+
+## L. Rimal & Real (2005). How behaviors are influenced by perceived norms: A test of the theory of normative social behavior. *Communication Research, 32*(3), 389–414. [전문, 2026-10-10]
+
+- **이론:**
+  - p. 391: "Based on our prior work (Rimal & Real, 2003), ... we propose the theory of normative social behavior (TNSB)". TNSB는 (1) DN과 IN을 구분하고, (2) DN–의도 관계를 조절하는 "normative mechanisms" 셋을 설명한다. 조절변인은 IN, outcome expectations(benefits to oneself, benefits to others, anticipatory socialization), group identity(similarity, aspiration)다. 직접효과도 가능하지만 "primary use"는 조절이다. **2003 모형과 달리 커뮤니케이션은 TNSB의 구성개념이 아니다.** 또래 대화는 통제변수 근거로만 언급되고 측정되지 않았다(p. 397).
+  - p. 390: IN은 중요한 타인이 기대하는 바에 대한 지각이며 "by implication, social sanctions will be incurred if they do not". p. 392: TRA의 SN에서는 제재 위협이 필수 요소가 아니다. 이 점이 IN과 SN의 차이다.
+  - p. 393: DN은 IN의 단서가 될 수 있다(사회비교). 다만 대학의 처벌형 캠페인(부모 통보 정책)이 승인 지각을 상쇄할 수 있다고 본다.
+  - pp. 395–396: 대학 입학은 새 환경이자 모호성이 큰 시기이고, "when they first join college and look to establish social networks".
+- **방법:**
+  - UT Austin 신입생 오리엔테이션(6–7월)에서 표집했다. N = 1,352, 회수율 67.6%. "not yet university students"(p. 408). 미성년이라 행동 대신 의도를 측정했다(p. 409).
+  - DN은 typical student의 음주량 4문항이다. IN은 social approval로, 사회 일반·대학 행정부·사람들 일반의 적절성 판단이라 원거리 준거다.
+- **결과:**
+  - 통제변수 19.7%, DN +6%. 모든 메커니즘의 주효과가 유의했다. benefits to oneself의 ΔR²는 36%였다.
+  - IN × DN은 유의하지 않았다(H1 기각, p. 403).
+  - 상호작용은 BO, AS, aspiration, similarity의 4개가 p < .05였지만, 각 ΔR²가 1% 미만이라 "judged to be nonsignificant"로 처리했다.
+  - "the primary contribution of these variables in our model was through their main effects"(p. 405). 전체 설명량은 63%다.
+  - 전체 모형에서 benefits to others는 부적이었고, 여성의 의도가 더 높게 역전됐다(benefits to oneself의 매개).
+- **함의:** 결과기대(혜택) 지각을 재구성해야 한다. 유사성 강조가 필요하다. 입학 전(고교 연계) 개입을 제안한다.
+- **한계:** 의도를 측정했다. 상관 설계이고, 역인과(의도 → 규범 지각 정당화) 가능성이 있다(p. 409).
+
+---
+
+## M. Chung & Rimal (2016). Social norms: A review. *Review of Communication Research, 4*, 1–28. [전문, 2026-10-10]
+
+- **p. 3:** 규범은 법과 달리 사회적 상호작용으로 협상·이해된다(R&L 2015). "Through interpersonal discussions, direct observations, and vicarious interactions through the media, people learn about and negotiate norms of conduct". 규범 영향 연구는 "a study of human interactions"다.
+- **pp. 4–5:**
+  - Sherif(자동운동, 정보적, 내면화) vs Asch(명령적, 집단 부재 시 소멸). Deutsch & Gerard의 규범적/정보적 영향. 사회정체성·자기범주화.
+  - Carey(1989): 커뮤니케이션과 규범은 instrumentally("vehicle through which norms are disseminated"; Real & Rimal, 2007)와 ritualistically("rituals themselves serve to communicate a community's values")로 맞물린다.
+  - "communication scholars tend to focus on understanding the communicative processes that lead to perceived norms ... whereas social psychologists tend to emphasize how social norms impact behavior"(p. 5).
+- **pp. 6–7:**
+  - collective(실제 유병률) vs perceived. IN 위반은 사회적 대가를, DN 위반은 대가 없음(L&R 2005).
+  - subjective norms(중요한 타인의 기대) vs injunctive(승인) vs descriptive(Park & Smith 2007).
+  - Table 1: 규범 유형별 의미·수준·효용.
+- **pp. 7–10:** focus theory(현저성), norm/attitude accessibility, prototype willingness model, TPB. 즉각적 결정은 가장 현저한 태도나 규범이 직접 영향을 주고, 숙고된 결정은 조절변인이 작동한다.
+- **pp. 10–13:** TNSB의 원래 조절변인 3개(R&R 2005)에 더해진 것들이다.
+  - perceived social distance(Neighbors et al., 2010): "norms emanating from close others are more predictive", "defiance of norms are more likely to become known to those who are close"(p. 11).
+  - group involvement, ego involvement, self-efficacy(Jang et al., 2013), ambiguity(Rimal et al., 2004).
+- **pp. 13–14:** behavioral privacy. "descriptive norms are unable to be communicated in the context of privately enacted behaviors"(p. 14).
+- **pp. 14–18, 수정 틀(Figure 1):** 숙고 시 행동·개인·맥락 속성이 조절한다.
+  - 행동 속성: outcome expectations, privacy, functionality(Katz), cost, modifiability, addictiveness.
+  - 개인 속성: group involvement, self-efficacy, age, past experience, self-monitoring, social comparison, emotional intelligence, gender stereotypes, affective commitment.
+  - 맥락 속성: time constraints, IN, ambiguity, external monitoring, social distance, **interpersonal discussion**, **media exposure**.
+  - p. 18: "Norms, by definition, are social phenomena that spread through communication (Kincaid, 2004; Lapinski & Rimal, 2005)". DN은 대학생이 음주를 논의했을 때 더 강하게 음주를 예측했다(Real & Rimal, 2007).
+  - Yanovitzky & Stryker (2001): 부정적 미디어 묘사가 사회적 불승인 지각을 높여 폭음을 줄였다. 배양이론.
+- **pp. 19–20, 향후 과제:**
+  - 조절변인의 수정 가능성(modifiability) 분류.
+  - 국가 대표 자료로 공동체 규범을 찾는 네 지표, 다층 모형.
+  - Mollen et al. (2010): 횡단 38%, 실험 18% 등. 횡단 우세가 인과 검정을 막는다.
+  - 질적 연구로 "the manner in which norms evolve over time"를 보라.
+  - "conceptual house-cleaning"(정의·측정 표준화).
+- **문화:** 거의 다루지 않는다(낯선 문화의 팁 예시 정도).
