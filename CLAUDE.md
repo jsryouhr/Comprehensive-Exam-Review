@@ -11,6 +11,7 @@
 4. `manuscripts/notes.md` — 정독한 원고 5편의 내용 요약
 5. `exam/question-analysis.md` — 종합시험 문항(Lapinski, 2026-10) 분석, 답안 뼈대, 확인 사항
 6. `exam/draft-v1-review.md` — 답안 초안 v1(2026-10-08) 교수 시점 평가, 분량 사실, 수정 제안, 예상 구두질문
+7. `exam/reading-list.md` — 읽기 목록 19편(Core/Supporting/(s)), 출처, 초안 활용도 대조
 
 ## 핵심 규칙 10가지
 1. 문두 "As"(because 뜻) → "Because". "it is construed/inferred that" → 직접 주장.
