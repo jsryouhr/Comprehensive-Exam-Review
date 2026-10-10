@@ -1,5 +1,9 @@
 # 종합시험 읽기 목록 (사용자 제공, 2026-10-10)
 
+> **인용 원칙(사용자 지정):** 답안은 이 19편을 바탕으로 쓴다. 이것만으로 부족할 때 다른 문헌을 쓰되, 본문에서 "outside the reading list"임을 밝히거나 핵심 내용을 각주로 뺀다. 원본 파일은 `00_READING_LIST.docx`(2026-10-10 업로드)이고, 목록 내용은 아래 표와 같다.
+>
+> **Kalny et al. (2026) 서지(사용자 목록 기준):** *Health Communication*, 1–16. https://doi.org/10.1080/10410236.2026.2678927
+
 총 19편. Tier: Core 10, Supporting 5, (s) 4. Source 열은 문헌의 출처(수강 과목 COM 860 / Prelim paper / Lapinski 추천).
 
 | # | Tier | 문헌 | Source | 초안 v1 본문 인용 횟수 |
